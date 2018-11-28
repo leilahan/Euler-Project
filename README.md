@@ -1,2 +1,4 @@
 # Euler-Project
-One solution to problem 8 in Euler Project site using Python 3.6
+Solutions for different problems of Project Euler using python 3.6.
+For problem 17, install the module inflect using
+$ pip install inflect
